@@ -15,14 +15,14 @@
 .btn:hover {
     background-color: rgb(255, 0, 0);
     color: rgb(0, 0, 0);
-    font-size: 50px;
+    font-size: 30px;
     font-weight: 600;
     padding: 15px 25px;
 }
 .btn:focus {
     background-color: rgb(9, 255, 0);
-    color: rgb(0, 0, 0);
-    font-size: 15px;
+    color: rgb(128, 38, 113);
+    font-size: 30px;
     padding: 15px 25px;
 }
 p {
